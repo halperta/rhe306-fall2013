@@ -3,20 +3,11 @@
 
 ## Updating site
 
-FIRST, commit changes to the website source in `master`.
+In the repository root:
 
-THEN, in the repository root:
-
-    git checkout master
     cd site
     jekyll
-    cd ..
-    git checkout gh-pages
-    cp -rf site/_site/* .
-    git add .
-    git commit . -m "updated site"
-    git push
-    git checkout master
+    cp -rf _site/* ../../halperta.github.com/rhe306-fall2013/.
 
 
 ## Development
