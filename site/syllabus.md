@@ -5,12 +5,12 @@ title: Syllabus
 
 ## Course Information
 
-**Course Name:** Natural Language Processing   
-**Course Number:** CS 378 / LIN 353N  
+**Course Name:** Rhetoric and Writing
+**Course Number:** RHE 306 
 **Semester:** Fall 2013  
   
-**Time:** Tues/Thurs 2:00-3:30  
-**Room:** WEL 3.402  
+**Time:** Tues/Thurs 12:30 - 2:00
+**Room:** MEZ B0.302
 
 
 ## Instructor Contact Information
