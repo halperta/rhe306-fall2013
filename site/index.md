@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Natural Language Processing
+title: RHE 306 - Rhetoric & Writing
 ---
 
-In the age of the Internet, there is a considerable demand for technology helping users to manage, search and access the enormous amount of information that is available. There is also a need for speech interfaces to computer systems of various types, from tutoring systems to automated customer support lines to robots. Examples of language-technological applications are the identification of the correct sense of an ambiguous word like “bass” (fish or musical instrument), automatic recognition of the language in which a document is written, machine translation, and automatic extraction of information from documents.
+RHE 306 – Rhetoric & Writing is a course in argumentation that situates rhetoric as an art of civic discourse.  It is designed to enhance your ability to analyze the various positions held in any public debate and to advocate your own position effectively.  Your work in this course will help you advance the critical writing and reading skills you will need to succeed in courses for your major and university degree.
 
-The field of computational linguistics deals with both the science behind providing such capabilities and the actual creation of applications which implement them. This course discusses the main natural language processing applications and provides an introduction to the key representations and algorithms used in computational linguistics and to the use of machine learning for NLP tasks.
+You will learn how to:
 
-The course will be oriented towards hands-on experience of language processing techniques. Previous programming experience is required. 
-
+1. identify, evaluate, construct, and organize effective arguments
+2. read critically
+3. advocate a specific position responsibly
+4. conduct library and web-based research and document sources
+5. produce a clean, efficient style and adapt it to various rhetorical situations
+6. edit and proofread your own and others’ prose.
