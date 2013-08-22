@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RHE 306 - Rhetoric & Writing
+title: Rhetoric & Writing
 ---
 
 RHE 306 – Rhetoric & Writing is a course in argumentation that situates rhetoric as an art of civic discourse.  It is designed to enhance your ability to analyze the various positions held in any public debate and to advocate your own position effectively.  Your work in this course will help you advance the critical writing and reading skills you will need to succeed in courses for your major and university degree.
