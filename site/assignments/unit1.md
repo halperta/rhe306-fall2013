@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit 1: Mapping a Controversy
+title: Unit 1 - Mapping a Controversy
 root: "../"
 ---
 ##Unit Overview

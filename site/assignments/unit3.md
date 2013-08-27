@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit 3: Advocating a Position 
+title: Unit 3 - Advocating a Position 
 root: "../"
 ---
 ##Unit Overview
