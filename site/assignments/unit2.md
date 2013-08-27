@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit 2: Analyzing a Position Within a Controversy 
+title: Unit 2 - Analyzing a Position Within a Controversy 
 root: "../"
 ---
 
