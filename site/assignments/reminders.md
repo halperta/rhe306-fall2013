@@ -12,9 +12,9 @@ root: "../"
 
 4.	Periods and commas go inside quote marks unless the quotation marks are followed by parentheses:
 
-a.	In "Identity in the Age of the Internet: Living in the MUD," Sherry Turkle questions some basic assumptions about identity. 
+	a.	In "Identity in the Age of the Internet: Living in the MUD," Sherry Turkle questions some basic assumptions about identity. 
 
-b.	If quotation marks are followed by parentheses, the punctuation goes after the parentheses: Legba wants Bungle to pay--"Mostly," she says, "I want his Money" (95).
+	b.	If quotation marks are followed by parentheses, the punctuation goes after the parentheses: Legba wants Bungle to pay--"Mostly," she says, "I want his Money" (95).
 
 5.	Always state up front the author's full name and the full title of the work you're summarizing.
 
