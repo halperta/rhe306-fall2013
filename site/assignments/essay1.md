@@ -27,13 +27,13 @@ Conclude with a reiteration of the relations among the various positions.
 
 ##Minimum Requirements
 For a C or above, your essay must:
-	Be 5-7 pages long, typed, double-spaced; have 1-inch margins and name, class, date at the top left corner of the first page with title centered two lines below the date
-	Strategically and effectively incorporate at least three sources, at least two of which are print sources
-	Summarize and analyze all positions fairly, without advocating or slanting
-	Document all sources accurately (in-text and on Works Cited page) according to MLA or APA style guides
-	Be written effectively and coherently, with few errors in grammar or mechanics
-	Have been peer reviewed at the in-class workshop 
-	Be turned in on time and be accompanied by all previous drafts, pre-writing exercises, and written peer reviews
+*	Be 5-7 pages long, typed, double-spaced; have 1-inch margins and name, class, date at the top left corner of the first page with title centered two lines below the date
+*	Strategically and effectively incorporate at least three sources, at least two of which are print sources
+*	Summarize and analyze all positions fairly, without advocating or slanting
+*	Document all sources accurately (in-text and on Works Cited page) according to MLA or APA style guides
+*	Be written effectively and coherently, with few errors in grammar or mechanics
+*	Have been peer reviewed at the in-class workshop 
+*	Be turned in on time and be accompanied by all previous drafts, pre-writing exercises, and written peer reviews
 
 
 

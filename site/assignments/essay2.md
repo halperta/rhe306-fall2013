@@ -20,10 +20,10 @@ In this essay, you must accomplish a few goals.  Your primary task is to analyze
 ##Minimum Requirements
 For a C or above, your essay must:
 
-	Be 4-7 pages long, typed, double-spaced; have 1-inch margins and name, class, date at the top left corner of the first page with title centered two lines below the date 
-	Analyze the text's rhetoric with particular attention to specific elements (style, appeals, arrangement, etc.) and their relation to the audience, the context, and the controversy. 
-	Strategically and effectively incorporate at least 1 credible print source (in addition to the text analyzed) 
-	Document all sources accurately (in-text and on a Works Cited page) according to MLA or APA style guides 
-	Be written effectively and coherently, with very few punctuation or grammatical errors 
-	Have been peer reviewed at the in-class workshop 
-	Be turned in on time and be accompanied by all previous drafts, pre-writing exercises, and written peer reviews 
+*	Be 4-7 pages long, typed, double-spaced; have 1-inch margins and name, class, date at the top left corner of the first page with title centered two lines below the date 
+*	Analyze the text's rhetoric with particular attention to specific elements (style, appeals, arrangement, etc.) and their relation to the audience, the context, and the controversy. 
+*	Strategically and effectively incorporate at least 1 credible print source (in addition to the text analyzed) 
+*	Document all sources accurately (in-text and on a Works Cited page) according to MLA or APA style guides 
+*	Be written effectively and coherently, with very few punctuation or grammatical errors 
+*	Have been peer reviewed at the in-class workshop 
+*	Be turned in on time and be accompanied by all previous drafts, pre-writing exercises, and written peer reviews 
