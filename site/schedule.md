@@ -8,17 +8,17 @@ This schedule shows deadlines for all graded assignments throughout the semester
 
 **TH 8-29**
 
-**T   9-3:** _Chapter 1: What Money Can't Buy_ (due)
+**T   9-3:** _Introduction: What Money Can't Buy_ and [worksheet](assignments/sandelWorksheet.html)(due)
 **TH  9-5**  
 
 **T   9-10**  
-**TH  9-12**  
+**TH  9-12**  [Controversy Worksheet](assignments/controversyWorksheet.html)(due)
 
 **T   9-17:** [RS1](assignments/r1.html) Due  
 **TH  9-19**  
 
 **T   9-24:** [RS2](assignments/r1.html) Due  
-**TH  9-26:** [RS3](assignments/r3.html)
+**TH  9-26:** [RS3](assignments/r3.html) Due  
 
 **T  10-1**  
 **TH 10-3:** [Paper 1.1](assignments/essay1.html) Due  
