@@ -3,6 +3,8 @@ layout: default
 title: Unit 3 - Advocating a Position 
 root: "../"
 ---
+[Back to "Assignments"](index.html)
+
 ##Unit Overview
 
 In the first two units, you assumed the part of a neutral investigator, mapping out the various positions held in regard to your controversy and then carefully analyzing one of those positions. In Unit III, you will actually engage in the debate you've been describing: drawing on your research and the persuasive strategies you've studied throughout the semester, you'll produce an argument advocating your own informed position within this controversy. 

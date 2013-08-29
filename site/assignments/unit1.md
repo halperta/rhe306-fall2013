@@ -3,6 +3,8 @@ layout: default
 title: Unit 1 - Mapping a Controversy
 root: "../"
 ---
+[Back to "Assignments"](index.html)
+
 ##Unit Overview
 
 You will begin this unit by selecting and securing your instructor's approval for a specific controversy to study throughout the semester. Select something that matters to you and that is complex enough to sustain your interest and attention for 16 weeks. A controversy usually involves a debate among several people or groups about an issue, event, or cause; if you're unable to discern more than two distinct positions regarding an issue, you've likely found not a controversy but a mere difference of opinion. Still, it's not unusual for a diverse range of perspectives to be hidden under oppositional language, such as “pro versus con,” “good versus bad,” or even “Republican versus Democrat," so you'll have to read carefully and with an eye out for subtle distinctions. Remember also that people who share a similar position may hold that position for very different reasons. A major goal of this unit is to cultivate an appreciation for the wide range of differences—some subtle, some dramatic—among viewpoints within a single controversy and therefore to combat the usual tendency to think that any controversy comes down to a simple opposition. 

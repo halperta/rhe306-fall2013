@@ -3,7 +3,7 @@ layout: default
 title: Essay 1
 root: "../"
 ---
-[Back to "Assignments"](assignments.html)
+[Back to "Assignments"](index.html)
 
 ##General
 Your purpose in this 5-7 page essay is to map out the various positions within your chosen controversy, stating clearly what those positions are and then highlighting the relationships among them. Do not—no way, no how—present a one-sided view, as if those who argue certain positions don't know what they're talking about. If this is really a controversy, there are several legitimate positions possible, and your job is to articulate each position's most compelling arguments. 

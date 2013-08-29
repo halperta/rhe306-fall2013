@@ -3,6 +3,7 @@ layout: default
 title: Controversy Worksheet
 root: "../"
 ---
+[Back to "Assignments"](index.html)
 [(download)](sandelWorksheet.docx)
 
 **Read:** Introduction: Markets and Morals (p1-15)
@@ -15,7 +16,7 @@ root: "../"
 
 * Citations: List Sandel’s citations (official and otherwise) in this chapter. What kinds of people, sources, etc. does Sandel cite? 
 
-* Examples: List the examples that Sandel uses.  How do they change in order of severity? (Do they start strong and become less so? Start weak and become strong?
+* Sentences: How would you characterize Sandel’s vocabulary (complex, simple, jargony, specific, general)? Are his sentences long or short? What about his paragraphs?
 
 * Author: Who is Michael J. Sandel? Where does he work? What else has he written? What stereotypes or expectations do you have of him based on this information?
 

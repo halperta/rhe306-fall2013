@@ -3,7 +3,8 @@ layout: default
 title: Controversy Worksheet
 root: "../"
 ---
-[Back to "Assignments"](assignments.html)
+[Back to "Assignments"](index.html)
+
 [(download)](controversyWorksheet.docx)  
 
 1.	Choose a topic you are interested in and have some background knowledge about (if possible).  Some examples of topics are: education, sports, healthcare, childcare, insurance, technology.
@@ -13,10 +14,10 @@ root: "../"
 
 3.	Re-word this problem using the words “whether or not” and “should.” This statement should not include any bias toward one standpoint over the other.  These are some examples:  
 
-	Whether or not corporations should be allowed to write school textbooks.  
-	Whether or not athletes should receive endorsements.  
-	Whether or not you should be able to pay for more selective adoption.  
-	Whether or not computer code should be patented and owned.  
+* Whether or not corporations should be allowed to write school textbooks.  
+* Whether or not athletes should receive endorsements.  
+* Whether or not you should be able to pay for more selective adoption.  
+* Whether or not computer code should be patented and owned.  
 
 4.	After doing some background research into the arguments made on different sides of this controversy, write at least three distinct positions that you have seen argued:
 

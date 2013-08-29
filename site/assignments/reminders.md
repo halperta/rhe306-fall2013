@@ -3,6 +3,7 @@ layout: default
 title: Research Summary Reminders
 root: "../"
 ---
+[Back to "Assignments"](index.html)
 
 1.	You’ll need to take notes on a piece before you’ll be able to craft the RS. If the piece seems complex, you may want to outline it.  Your outline should reveal the skeleton or architecture of the argument. And/or, try capturing each paragraph in a single sentence.  What is the point of the paragraph, and how does the point of the paragraph contribute to (e.g., explain, give background for, qualify, provide evidence for, introduce or build up sub-claims that build up the main claim) the writer’s overarching position or claim? However, your RS should not simply put all of these sentences into paragraph form. Rather, look at these sentences “from a distance” to get a sense of the whole. Consider what’s essential to include and what’s not. Then play with reordering your sentences so that their sequence best captures the original piece. Of course, you’ll then need to revise and edit this draft.
 

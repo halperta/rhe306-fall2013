@@ -3,7 +3,7 @@ layout: default
 title: Essay 2
 root: "../"
 ---
-[Back to "Assignments"](assignments.html)
+[Back to "Assignments"](index.html)
 
 ##General
 Your purpose in this 4-7 page essay is to closely analyze one position in your controversy. You'll do this through the careful (textual and contextual) analysis of a single text advocating a position. For our purposes, a "text" can be loosely defined as any persuasive effort that can be interpreted.  A "text" may be a print article (such as an opinion column in a newspaper).  It may also be a blog entry, a video, a commercial, an image, or a web-page.  You should select a text that makes a clear argument--a text that very clearly asks the audience to believe, feel, or do something. 
