@@ -6,10 +6,10 @@ This schedule shows deadlines for all graded assignments throughout the semester
 
 ## Unit 1: Describing a controversy and mapping the various positions within it.  
 
-**TH 8-29**  
+**TH 8-29**  [First Day Handout](assignments/RHE306handout8-30-13.pdf)
 
 **T   9-3:** _Introduction: What Money Can't Buy_ and [worksheet](assignments/sandelWorksheet.html) Due  
-**TH  9-5**  
+**TH  9-5**  Skim chapter from What Money Can't Buy_ and generate list of topics and controversies
 
 **T   9-10**  
 **TH  9-12**  [Controversy Worksheet](assignments/controversyWorksheet.html) Due  
