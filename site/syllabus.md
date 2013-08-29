@@ -15,7 +15,7 @@ title: Syllabus
 
 ## Instructor Contact Information
 [Hannah Alpert-Abrams](http://www.halperta.com)  
-**office hours:** TBD  
+**office hours:** Weds 9am-11am and Tues 4pm-5pm  
 **office:** FAC16  
 **email:** halperta@gmail.com  
 **[cv](pdf/AlpertAbramsCV.pdf)** 
@@ -40,7 +40,7 @@ You will be graded on the following assignments this term:
 	Paper 3.1:          15%             [due: Thursday 11-21]
 	Paper 3.2:          15%             [due: Thursday 11-28]
 	Research Summaries: 20%
-	[]                  10%  
+	Final Presentation: 10%  
 	Peer reviews: Mandatory
 	Participation: Invaluable
 	
@@ -51,18 +51,19 @@ Students will write three essays ranging from 4-7 pages each (1.1, 2.1, 2.3) and
 ##Grading
 
 This class will use the university plus/minus grading scale for assignment and final grades. 
-	A 	4.0
-	A- 	3.67
-	B+ 	3.33
-	B 	3.0
-	B- 	2.67
-	C+ 	2.33
-	C 	2.0
-	C- 	1.67
-	D+ 	1.33
-	D 	1.0
-	D- 	0.67
-	F 	0.0
+
+	A 	4.0  
+	A- 	3.67  
+	B+ 	3.33  
+	B 	3.0  
+	B- 	2.67  
+	C+ 	2.33  
+	C 	2.0  
+	C- 	1.67  
+	D+ 	1.33  
+	D 	1.0  
+	D- 	0.67  
+	F 	0.0  
 
 ###Late Work
 Late work is penalized at one third of a letter grade for each 24 hour period. Late submissions will not be accepted after five days.
