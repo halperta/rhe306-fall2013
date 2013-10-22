@@ -3,8 +3,8 @@ layout: default
 title: Controversy Worksheet
 root: "../"
 ---
-[Back to "Assignments"](index.html)
-[(download)](sandelWorksheet.docx)
+[Back to "Assignments"](index.html)  
+[(download)](sandelWorksheet.docx)  
 
 **Read:** Introduction: Markets and Morals (p1-15)
 

@@ -17,6 +17,9 @@ title: Resources
 ##Writing Resources
 * [The Undergraduate Writing Center](http://uwc.utexas.edu/)
 
+##Course Tools
+* [Canvas: password protected course website](http://canvas.utexas.edu)
+
 
 
 

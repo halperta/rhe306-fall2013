@@ -12,8 +12,11 @@ root: "../"
 [Essay 1]({{ page.root }}assignments/essay1.html)  
 
 ###Other assignments
-[What Money Can't Buy Worksheet:]({{ page.root }}assignments/sandelWorksheet.html) Due in class Sept 2.  
-[Controversy Worksheet:] ({{ page.root }}assignments/controversyWorksheet.html) Due in class Sept 12.
+[What Money Can't Buy Worksheet:]({{ page.root }}assignments/sandelWorksheet.html) Due in class Sept 3.  
+[Research Worksheet:]({{ page.root }}assignments/researchWorksheet.html) Due in class Sept 5.  
+[Controversy Worksheet:]({{ page.root }}assignments/controversyWorksheet.html) Due by e-mail Sept 10.  
+[Evaluating Bias Worksheet:]({{ page.root }}assignments/articleEval.html)  (Do not turn in.)   
+
 
 ##Unit 2: Analyzing a position within a controversy.  
 
@@ -29,6 +32,8 @@ root: "../"
 
 ##Helpful Resources
 
+[Download: template for research summaries]({{ page.root }}pdf/RSTemplate.docx)  
+[Download: template for essays]({{ page.root }}pdf/EssayTemplate.docx)    
 [Research Summary Reminders]({{ page.root }}assignments/reminders.html)  
 
 

@@ -6,7 +6,7 @@ root: "../"
 [Back to "Assignments"](index.html)
 
 ##General
-Your purpose in this 5-7 page essay (1500-2100 words) is to map out the various positions within your chosen controversy, stating clearly what those positions are and then highlighting the relationships among them. Do not—no way, no how—present a one-sided view, as if those who argue certain positions don't know what they're talking about. If this is really a controversy, there are several legitimate positions possible, and your job is to articulate each position's most compelling arguments. 
+Your purpose in this 5-7 page essay is to map out the various positions within your chosen controversy, stating clearly what those positions are and then highlighting the relationships among them. Do not—no way, no how—present a one-sided view, as if those who argue certain positions don't know what they're talking about. If this is really a controversy, there are several legitimate positions possible, and your job is to articulate each position's most compelling arguments. 
 
 One way to maintain a neutral ethos in this paper is to give each "side" an equal opportunity to present its position from its own perspective. Be sure to attribute statements to their original speakers or organizations: phrases such as "According to. . ." and "As stated by. . ." along with verbs that indicate that someone has stated a particular position, such as argues, advocates, asserts and contends will indicate that the argument you are presenting is not necessarily your own.
 
@@ -28,7 +28,7 @@ Conclude with a reiteration of the relations among the various positions.
 
 ##Minimum Requirements
 For a C or above, your essay must:
-*	Be 5-7 pages long (1500-2100 words), typed, double-spaced; have 1-inch margins and name, class, date at the top left corner of the first page with title centered two lines below the date
+*	Be 5-7 pages long, typed, double-spaced; have 1-inch margins and name, class, date at the top left corner of the first page with title centered two lines below the date
 *	Strategically and effectively incorporate at least three sources
 *	Summarize and analyze all positions fairly, without advocating or slanting
 *	Document all sources accurately (in-text and on Works Cited page) according to MLA style guides
